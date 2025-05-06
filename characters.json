@@ -1,0 +1,34 @@
+{
+    "Luffy": {
+        "name": "Monkey D. Luffy",
+        "role": "Captain",
+        "Bounty": "3,000,000,000",
+        "abilities": ["Gomu Gomu no Mi", "Gear Second", "Haki"],
+        "image": "luffy.jpg",
+        "bio": "Monkey D. Luffy, commonly known as Straw Hat Luffy or simply Straw Hat, is the founder, captain, and strongest combatant of the increasingly infamous and powerful Straw Hat Pirates. He fearlessly pursues the legendary treasure of the late Gol D. Roger in order to become the new Pirate King and reach a further, untold dream (currently known to only his crew, family and closest friends). He believes that being the Pirate King means having the most freedom in the world."
+    },
+    "Zoro": {
+        "name": "Roronoa Zoro",
+        "role": "Swordsman",
+        "Bounty": "1,111,000,000",
+        "abilities": ["Santoryu", "Haki"],
+        "image": "zoro.jpg",
+        "bio": "Roronoa Zoro, also known as Pirate Hunter Zoro, is the combatant of the Straw Hat Pirates, one of the Senior Officers of the Straw Hat Grand Fleet, and is publicly recognized as the right-hand man and number two of his crew's captain Monkey D. Luffy. Formerly a bounty hunter, he is the second member of Luffy's crew and the first to join it, doing so in the Romance Dawn Arc. ."
+    },
+    "Sanji": {
+        "name": "Vinsmoke Sanji",
+        "role": "Cook",
+        "Bounty": "1,032,000,000",
+        "abilities": ["Diable Jambe", "Ifrit Jambe", "Haki"],
+        "image": "sanji.jpg",
+        "bio": "Black Leg Sanji, born as Vinsmoke Sanji, is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc. "
+    },
+    "Nami"{
+        "name": "Cat Burglar Nami",
+        "role": "Navigator",
+        "Bounty": "366,000,000",
+        "abilities": ["N/A"],
+        "image": "nami.jpg",
+        "bio": "Cat Burglar Nami is the navigator of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the third member of the crew and the second to join, doing so during the Orange Town Arc. She is the adoptive sister of Nojiko after the two were orphaned and taken in by Bell-mère. "
+    }
+}
